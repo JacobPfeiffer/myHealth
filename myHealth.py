@@ -12,7 +12,7 @@ from garminconnect import (
 from datetime import date
 
 import myfitnesspal
-from Secrets import <GarminPW>
+from Secrets import GarminPW
 
 # --------------------------Garmin-----------------------------
 """
